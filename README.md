@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @NayarettGonzalez
+- 👋 Hi, I’m Nayarett González
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[Linkedin](https://cl.linkedin.com/in/nayarett-gonzalez)
+
+[ResearchGate](https://www.researchgate.net/profile/Nayarett-Gonzalez-Villa)
+
+[ORCID](https://orcid.org/0000-0003-1853-824X)
+
+[Credly](https://www.credly.com/users/nayarett-gonzalez/badges)
 
 
 Languages and Tools:

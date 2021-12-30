@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[Linkedin](https://cl.linkedin.com/in/nayarett-gonzalez)
+[Linkedin](www.linkedin.com/in/npgv)
 
 [ResearchGate](https://www.researchgate.net/profile/Nayarett-Gonzalez-Villa)
 
